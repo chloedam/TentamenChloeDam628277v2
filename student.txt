@@ -1,4 +1,4 @@
 o student name: Chloë Dam
 o student number: 628277
 o student class: INF1C
-o URL student GitHub repository: ...
+o URL student GitHub repository: https://github.com/chloedam/TentamenChloeDam628277v2
