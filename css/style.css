@@ -31,6 +31,7 @@ p
 { 
 font-size: 15pt;
 padding-left: 20px;
+padding-right: 20px
 }
 
 a
@@ -86,6 +87,15 @@ padding-right: 20px;
 
 aside img
 { width: 100%;
+}
+
+header img
+{ width: 100%;
+}
+
+#asideBenL
+{ padding-bottom: 20px;
+padding-top: 20px;
 }
 
 /* positie en achtergrond cookies */
