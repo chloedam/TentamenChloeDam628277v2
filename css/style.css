@@ -93,12 +93,24 @@ header img
 { width: 100%;
 }
 
+#nav
+{ padding-top: 10px;
+padding-bottom: 10px;
+}
+
+#ulNav
+{margin-left: 10px;
+}
+
+#endFooter
+{ padding-left: 0px;
+}
+
 /* positie en achtergrond cookies */
 #cookie
 { position : fixed;
 	right : 0;
 	bottom : 0;
-	margin : 1;
 	background-color : #707070;
 	color : #fff;
 }
